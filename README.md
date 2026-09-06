@@ -17,7 +17,7 @@
 - 🌱 Currently learning **Competitive Programming (CP)**  
 - 🔭 Working on **CP and Web Development**  
 - 💬 Ask me about **C, C++, Python & JavaScript**  
-- 📫 Reach me: **sayandevnath@hotmail.com**  
+- 📫 Reach me: **sayandevnath01@gmail.com**  
 - ⚡ Fun fact: *I debug faster at midnight than in the morning 🌙*  
 
 ---
